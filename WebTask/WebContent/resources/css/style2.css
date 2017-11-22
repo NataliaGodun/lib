@@ -1,0 +1,70 @@
+html, body {
+	margin-left: 0px;
+	margin-right: 0px;
+	padding: 0px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+#wrapper {
+	width: 100%;
+	margin-top: 0px;
+}
+#header h1 {
+	text-align: center; margin: -70px 200px 0px 150px;color: #ffff1a
+}
+#main{
+ background: #dfc220; /* Цвет фона */
+ margin:auto;
+ padding: 5px;
+}
+#language{
+	margin: 10px 0px 20px 1170px; 	
+}
+#languageRu{
+	float:left;
+}
+#languageEn{
+
+}
+#inline{
+	display:inline-block;
+		width: 100%;
+
+}
+#content{
+	border: 4px double black;	
+    background: #fdf7bd; /* Цвет фона */
+    padding:25px;
+    float: left;
+	display:block;
+    width:70%;
+    
+}
+#available{
+	text-align: center;
+	margin: 0px 120px -30px 100px;
+	background: #ede06d;	
+}
+
+#enterReg{
+    background: #fdf7bd; /* Цвет фона */
+    display:block;
+    padding: 10px; 
+    float: right; 
+}
+#book{
+	
+}
+#image{
+	float: left; 
+
+}
+#information{
+	margin: 70px 0px 50px 0px;
+}
+
+#footer {
+	text-align: center;
+}
+
+
+
